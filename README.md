@@ -3,6 +3,7 @@ Created a recommendation system by using machine learning and  filtering techniq
 1: Content-based Filtering  
 2: Collaborative Filtering
 
+Dataset: https://drive.google.com/drive/folders/1tCJH8uLOzvyE49GHanzuJyUmFe8NNHaf?usp=sharing
 
 1:download python
 open CMD
@@ -14,3 +15,4 @@ change port if not working
 
 to install fasttext visit this:
 https://medium.com/@oleg.tarasov/building-fasttext-python-wrapper-from-source-under-windows-68e693a68cbb
+
